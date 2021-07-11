@@ -1,0 +1,21 @@
+.logo{
+    width: 150px;
+    margin-left: 200px;
+}
+.logodiv{
+    
+    padding: 20px;
+    border-right: 2px gray solid;
+
+}
+.div1{
+    padding: 20px;
+}
+.div2{
+    font-size: large;
+    padding: 20px;
+
+}
+.div2 i:hover i{
+    color: rgba(253, 71, 5, 0.938);
+}

@@ -1,0 +1,10 @@
+#top-btn{
+    left: 1256px;
+    top: 486px;
+    width: 58px;
+    height: 51px;
+    border-radius: 25px;
+    border: none;
+    position: fixed;
+    z-index: 2;
+}

@@ -1,0 +1,139 @@
+.slide1{
+    background-image: url(/assets/_114317233_gettyimages-1217239484-594x594.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+.slide2{
+    background-image: url(/assets/pexels-photo-1739842.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+.slide3{
+    background-image: url(/assets/photo-1488521787991-ed7bbaae773c.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+
+}
+.centerdiv{
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+    text-transform: capitalize;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    padding: 200px;
+    
+    transition: all 1s;
+}
+.row:hover .carousel-item {
+    transition: all 1s;
+    transform: scale(1.1,1.1) rotate(-3deg);
+}
+.p1{
+    
+    font-size: x-large;
+
+
+}
+.p2{
+    font-size: 80px;
+}
+.btn
+{
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(255, 136, 0);
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+    height: 50px;
+    width: 200px;
+
+}
+.btn:hover{
+    background-color: black;
+}
+.bg1{
+    background-image: url(/assets/heart.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+
+}
+.bg2{
+    background-image: url(/assets/book.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+
+}
+.bg3
+{
+    background-image: url(/assets/green-heart.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+
+}
+.ldiv{
+    top: 690px;
+    left: 163px;
+    width: 1024px;
+    border-radius: 30px;
+}
+.indiv{
+    font-size: 25px;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+}
+ .i1{
+    color: rgba(255, 166, 0, 0.89);
+
+}
+.i2{
+    color: rgb(63, 63, 238);
+
+}
+.i3{
+    color: rgba(9, 202, 9, 0.911);
+
+}
+.sdiv{
+    padding: 30px;
+}
+.pdiv{
+    color: gray;
+    font-size: large;
+    padding: 20px;
+    margin-top: 40px; 
+}
+.girlimg{
+    width: 479px;
+    height: 650px;
+    margin-left: 61px;
+    box-shadow:-20px 0px 23px orangered;
+
+}
+.seconddiv{
+     margin-top: 350px;
+     padding: 50px;
+}
+.span1{
+    font-family: 'Dela Gothic One', cursive;
+font-family: 'Indie Flower', cursive;
+color: orangered;
+font-size: 50px;
+}
+.h1{
+    font-family: 'Ranchers', cursive;
+}

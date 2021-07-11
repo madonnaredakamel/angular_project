@@ -1,0 +1,21 @@
+.span1{
+    font-family: 'Dela Gothic One', cursive;
+font-family: 'Indie Flower', cursive;
+color: orangered;
+font-size: 50px;
+}
+.h1{
+    font-family: 'Ranchers', cursive;
+    font-size: 60px;
+}
+.bigdiv{
+    padding: 50px;
+
+}
+.carddiv{
+    padding: 30px;
+}
+.pdiv{
+    font-size: 40px;
+    font-family: 'Ranchers', cursive;
+}

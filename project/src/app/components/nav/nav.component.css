@@ -1,0 +1,21 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+  
+  .dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+      pointer-events: none;
+  }
+  .donatebtn{
+      border: 0ch;
+      border-radius: 25px;
+      width: 130px;
+      background-color: #ff7907;
+      color: white;
+      height: 50px;
+      text-transform: capitalize;
+  }
+  .btn{
+      border: 0;
+      
+  }
